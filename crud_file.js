@@ -1,3 +1,6 @@
+// This file contains the learning where CRUD 
+// operations were performed in the file system locally
+
 // // const app = require('./app.js')
 // // console.log(app)
 
