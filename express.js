@@ -4,7 +4,8 @@ const app = express();
 
 
 app.get('',(req,res)=>{
-    res.send('Hello this is my first msg');
+    res.send(`<h1>Hello this is my first msg</h1><a href="/about">Go to Redirect</a>`);
+    
 
 })
 
